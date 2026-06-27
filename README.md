@@ -2,7 +2,7 @@
 
 SIA Pass is a secure, zero-knowledge, browser-based password manager. It protects your credentials with military-grade AES-GCM encryption locally in your browser. With no server access required, you get complete privacy and 100% control over your data.
 
-🚀 **Live Demo:** [https://sia-pass.pages.dev](https://sia-pass.pages.dev)
+🚀 **Live Demo:** [https://sia-passv.pages.dev](https://sia-passv.pages.dev)
 
 ---
 
