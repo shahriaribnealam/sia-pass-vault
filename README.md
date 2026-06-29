@@ -18,7 +18,7 @@ SIA Pass is a secure, zero-knowledge, browser-based password manager. It protect
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript (or mention React/Vue/Tailwind if used)
+- **Frontend:** HTML5, Tailwind CSS, JavaScript
 - **Cryptography:** Web Crypto API (AES-GCM)
 - **Hosting:** Cloudflare Pages
 
